@@ -17,4 +17,3 @@ class IndexController {
         return "index";
     }
 }
-
